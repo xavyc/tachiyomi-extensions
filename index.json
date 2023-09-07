@@ -3039,35 +3039,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Leviatan Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.all.leviatanscans",
-    "apk": "tachiyomi-all.leviatanscans-v1.4.45.apk",
-    "lang": "all",
-    "code": 45,
-    "version": "1.4.45",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Leviatan Scans",
-        "lang": "en",
-        "id": "4055499394183150749",
-        "baseUrl": "https://en.leviatanscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Leviatan Scans",
-        "lang": "es",
-        "id": "3261761882825095722",
-        "baseUrl": "https://es.leviatanscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Little Garden",
     "pkg": "eu.kanade.tachiyomi.extension.all.littlegarden",
     "apk": "tachiyomi-all.littlegarden-v1.4.2.apk",
@@ -10905,6 +10876,27 @@
         "baseUrl": "http://lemonfontcomics.com",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Leviatan Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.leviatanscans",
+    "apk": "tachiyomi-en.leviatanscans-v1.4.46.apk",
+    "lang": "en",
+    "code": 46,
+    "version": "1.4.46",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Leviatan Scans",
+        "lang": "en",
+        "id": "4055499394183150749",
+        "baseUrl": "https://lscomic.com",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
