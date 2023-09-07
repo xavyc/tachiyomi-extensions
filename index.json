@@ -22393,10 +22393,10 @@
   {
     "name": "Tachiyomi: MG Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.mgkomik",
-    "apk": "tachiyomi-id.mgkomik-v1.4.36.apk",
+    "apk": "tachiyomi-id.mgkomik-v1.4.37.apk",
     "lang": "id",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22405,7 +22405,7 @@
         "name": "MG Komik",
         "lang": "id",
         "id": "5845004992097969882",
-        "baseUrl": "https://mgkomik.com",
+        "baseUrl": "https://mgkomik.id",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23975,7 +23975,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki306.net",
+        "baseUrl": "https://manatoki307.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -23983,7 +23983,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki306.com",
+        "baseUrl": "https://newtoki307.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
