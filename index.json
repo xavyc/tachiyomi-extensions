@@ -24257,10 +24257,10 @@
   {
     "name": "Tachiyomi: Bakai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bakai",
-    "apk": "tachiyomi-pt.bakai-v1.4.3.apk",
+    "apk": "tachiyomi-pt.bakai-v1.4.4.apk",
     "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25074,27 +25074,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Mode Scanlator",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.modescanlator",
-    "apk": "tachiyomi-pt.modescanlator-v1.4.34.apk",
-    "lang": "pt-BR",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mode Scanlator",
-        "lang": "pt-BR",
-        "id": "6745627125404578928",
-        "baseUrl": "https://modescanlator.com",
-        "versionId": 2,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Momo no Hana Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.momonohanascan",
     "apk": "tachiyomi-pt.momonohanascan-v1.4.32.apk",
@@ -25362,27 +25341,6 @@
         "lang": "pt-BR",
         "id": "4038055363600290082",
         "baseUrl": "https://origami-orpheans.com.br",
-        "versionId": 2,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Peach Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.peachscan",
-    "apk": "tachiyomi-pt.peachscan-v1.4.32.apk",
-    "lang": "pt-BR",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Peach Scan",
-        "lang": "pt-BR",
-        "id": "6018439128722635618",
-        "baseUrl": "https://peachscan.com",
         "versionId": 2,
         "hasCloudflare": 1
       }
