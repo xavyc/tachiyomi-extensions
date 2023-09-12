@@ -5720,10 +5720,10 @@
   {
     "name": "Tachiyomi: 999Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.ninenineninehentai",
-    "apk": "tachiyomi-all.ninenineninehentai-v1.4.2.apk",
+    "apk": "tachiyomi-all.ninenineninehentai-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5732,7 +5732,7 @@
         "name": "999Hentai",
         "lang": "all",
         "id": "5098173700376022513",
-        "baseUrl": "https://999hentai.to",
+        "baseUrl": "https://999hentai.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -5740,7 +5740,7 @@
         "name": "999Hentai",
         "lang": "en",
         "id": "4370122548313941497",
-        "baseUrl": "https://999hentai.to",
+        "baseUrl": "https://999hentai.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -5748,7 +5748,7 @@
         "name": "999Hentai",
         "lang": "ja",
         "id": "8948948503520127713",
-        "baseUrl": "https://999hentai.to",
+        "baseUrl": "https://999hentai.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -5756,7 +5756,7 @@
         "name": "999Hentai",
         "lang": "zh",
         "id": "3874510362699054213",
-        "baseUrl": "https://999hentai.to",
+        "baseUrl": "https://999hentai.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -5764,7 +5764,7 @@
         "name": "999Hentai",
         "lang": "es",
         "id": "2790053117909987291",
-        "baseUrl": "https://999hentai.to",
+        "baseUrl": "https://999hentai.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -7154,20 +7154,20 @@
   {
     "name": "Tachiyomi: جالاكسي مانجا",
     "pkg": "eu.kanade.tachiyomi.extension.ar.galaxymanga",
-    "apk": "tachiyomi-ar.galaxymanga-v1.4.26.apk",
+    "apk": "tachiyomi-ar.galaxymanga-v1.4.27.apk",
     "lang": "ar",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "جالاكسي مانجا",
         "lang": "ar",
-        "id": "3062923488313732743",
-        "baseUrl": "https://galaxymanga.org",
-        "versionId": 1,
+        "id": "2729515745226258240",
+        "baseUrl": "https://flixscans.com",
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -7440,6 +7440,27 @@
         "lang": "ar",
         "id": "2589550143244611118",
         "baseUrl": "https://mangalionz.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: مانجا نون",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.manganoon",
+    "apk": "tachiyomi-ar.manganoon-v1.4.2.apk",
+    "lang": "ar",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "مانجا نون",
+        "lang": "ar",
+        "id": "3244399826714600926",
+        "baseUrl": "https://manjanoon.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -9368,27 +9389,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: 1st Kiss",
-    "pkg": "eu.kanade.tachiyomi.extension.en.firstkissmanga",
-    "apk": "tachiyomi-en.firstkissmanga-v1.4.41.apk",
-    "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "1st Kiss",
-        "lang": "en",
-        "id": "3470433521851976761",
-        "baseUrl": "https://1stkissmanga.me",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: 1stKissManga.blog",
     "pkg": "eu.kanade.tachiyomi.extension.en.firstkissmangablog",
     "apk": "tachiyomi-en.firstkissmangablog-v1.4.31.apk",
@@ -9517,10 +9517,10 @@
   {
     "name": "Tachiyomi: Flix Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.flixscans",
-    "apk": "tachiyomi-en.flixscans-v1.4.1.apk",
+    "apk": "tachiyomi-en.flixscans-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20514,27 +20514,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Japscan",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.43.apk",
-    "lang": "fr",
-    "code": 43,
-    "version": "1.4.43",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Japscan",
-        "lang": "fr",
-        "id": "11",
-        "baseUrl": "https://www.japscan.lol",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Jpmangas",
     "pkg": "eu.kanade.tachiyomi.extension.fr.jpmangas",
     "apk": "tachiyomi-fr.jpmangas-v1.4.8.apk",
@@ -24314,27 +24293,6 @@
         "baseUrl": "https://leitura.baixarhentai.net",
         "versionId": 1,
         "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Bakai",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.bakai",
-    "apk": "tachiyomi-pt.bakai-v1.4.4.apk",
-    "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Bakai",
-        "lang": "pt-BR",
-        "id": "1652448748031658277",
-        "baseUrl": "https://bakai.org",
-        "versionId": 1,
-        "hasCloudflare": 1
       }
     ]
   },
