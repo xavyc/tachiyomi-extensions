@@ -2832,35 +2832,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Komik Lab",
-    "pkg": "eu.kanade.tachiyomi.extension.all.komiklab",
-    "apk": "tachiyomi-all.komiklab-v1.4.28.apk",
-    "lang": "all",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "KomikLab Scans",
-        "lang": "en",
-        "id": "6887810673806908255",
-        "baseUrl": "https://komiklab.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Komik Lab",
-        "lang": "id",
-        "id": "6528769273274445998",
-        "baseUrl": "https://komiklab.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: LANraragi",
     "pkg": "eu.kanade.tachiyomi.extension.all.lanraragi",
     "apk": "tachiyomi-all.lanraragi-v1.4.14.apk",
@@ -7341,27 +7312,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: مانجا عرب تيم Manga Arab Team",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaarabteam",
-    "apk": "tachiyomi-ar.mangaarabteam-v1.4.32.apk",
-    "lang": "ar",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "مانجا عرب تيم Manga Arab Team",
-        "lang": "ar",
-        "id": "9037309701835524387",
-        "baseUrl": "https://mangaarbteam.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: مانجا ليك",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
     "apk": "tachiyomi-ar.mangalek-v1.4.33.apk",
@@ -7587,27 +7537,6 @@
         "lang": "ar",
         "id": "152314873890577786",
         "baseUrl": "https://manhatic.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ManhwaTime",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.manhwatime",
-    "apk": "tachiyomi-ar.manhwatime-v1.4.31.apk",
-    "lang": "ar",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ManhwaTime",
-        "lang": "ar",
-        "id": "9175925784150067651",
-        "baseUrl": "https://manhwatime.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -8007,27 +7936,6 @@
         "lang": "en",
         "id": "8547397037512613554",
         "baseUrl": "https://allporncomic.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Aln Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.alnscans",
-    "apk": "tachiyomi-en.alnscans-v1.4.31.apk",
-    "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Aln Scans",
-        "lang": "en",
-        "id": "2113705215642539707",
-        "baseUrl": "https://alnscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -10685,6 +10593,27 @@
         "lang": "en",
         "id": "8796550412064522099",
         "baseUrl": "https://komikchan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Komik Lab",
+    "pkg": "eu.kanade.tachiyomi.extension.en.komiklab",
+    "apk": "tachiyomi-en.komiklab-v1.4.29.apk",
+    "lang": "en",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komik Lab",
+        "lang": "en",
+        "id": "7562859454664606982",
+        "baseUrl": "https://komiklab.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17846,27 +17775,6 @@
         "lang": "en",
         "id": "368848319592333339",
         "baseUrl": "https://topmanhua.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Trap Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.trapscans",
-    "apk": "tachiyomi-en.trapscans-v1.4.31.apk",
-    "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Trap Scans",
-        "lang": "en",
-        "id": "7559894495170808224",
-        "baseUrl": "https://trapscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26147,10 +26055,10 @@
   {
     "name": "Tachiyomi: Desu",
     "pkg": "eu.kanade.tachiyomi.extension.ru.desu",
-    "apk": "tachiyomi-ru.desu-v1.4.22.apk",
+    "apk": "tachiyomi-ru.desu-v1.4.23.apk",
     "lang": "ru",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26159,7 +26067,7 @@
         "name": "Desu",
         "lang": "ru",
         "id": "6684416167758830305",
-        "baseUrl": "https://desu.me",
+        "baseUrl": "https://desu.win",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28014,27 +27922,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: LKDTT",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.lkdtt",
-    "apk": "tachiyomi-vi.lkdtt-v1.4.5.apk",
-    "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "LKDTT",
-        "lang": "vi",
-        "id": "6755797126867425617",
-        "baseUrl": "https://lkdttee.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: LXHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
     "apk": "tachiyomi-vi.lxhentai-v1.4.1.apk",
@@ -28071,27 +27958,6 @@
         "lang": "vi",
         "id": "1351694623483170832",
         "baseUrl": "https://manhuarock.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MeDocTruyenTranh",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.medoctruyentranh",
-    "apk": "tachiyomi-vi.medoctruyentranh-v1.4.6.apk",
-    "lang": "vi",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MeDocTruyenTranh",
-        "lang": "vi",
-        "id": "6151271629139709650",
-        "baseUrl": "https://www.medoctruyentranh.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28302,27 +28168,6 @@
         "lang": "vi",
         "id": "2553532324170433933",
         "baseUrl": "https://truyenqqne.com/",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Truyện Tranh 8",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.truyentranh8",
-    "apk": "tachiyomi-vi.truyentranh8-v1.4.1.apk",
-    "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Truyện Tranh 8",
-        "lang": "vi",
-        "id": "1143040889603050651",
-        "baseUrl": "http://truyentranh86.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28638,48 +28483,6 @@
         "lang": "zh",
         "id": "4341893737383682159",
         "baseUrl": "https://www.gufengmh.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Haoman6",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.haoman6",
-    "apk": "tachiyomi-zh.haoman6-v1.4.9.apk",
-    "lang": "zh",
-    "code": 9,
-    "version": "1.4.9",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "好漫6",
-        "lang": "zh",
-        "id": "1079759561750820890",
-        "baseUrl": "https://www.haoman6.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Haoman6 (g-lens)",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.haoman6glens",
-    "apk": "tachiyomi-zh.haoman6glens-v1.4.6.apk",
-    "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "好漫6 (g-lens)",
-        "lang": "zh",
-        "id": "7629839236910528515",
-        "baseUrl": "https://www.g-lens.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
