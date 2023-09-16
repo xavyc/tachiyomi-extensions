@@ -7125,10 +7125,10 @@
   {
     "name": "Tachiyomi: جالاكسي مانجا",
     "pkg": "eu.kanade.tachiyomi.extension.ar.galaxymanga",
-    "apk": "tachiyomi-ar.galaxymanga-v1.4.27.apk",
+    "apk": "tachiyomi-ar.galaxymanga-v1.4.28.apk",
     "lang": "ar",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10055,10 +10055,10 @@
   {
     "name": "Tachiyomi: Hiperdex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiperdex",
-    "apk": "tachiyomi-en.hiperdex-v1.4.41.apk",
+    "apk": "tachiyomi-en.hiperdex-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21474,10 +21474,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.46.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.47.apk",
     "lang": "id",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -21486,7 +21486,7 @@
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://komikcast.io",
+        "baseUrl": "https://komikcast.vip",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21621,10 +21621,10 @@
   {
     "name": "Tachiyomi: KomikIndoID",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoid",
-    "apk": "tachiyomi-id.komikindoid-v1.4.11.apk",
+    "apk": "tachiyomi-id.komikindoid-v1.4.12.apk",
     "lang": "id",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21633,7 +21633,7 @@
         "name": "KomikIndoID",
         "lang": "id",
         "id": "5384836574731339537",
-        "baseUrl": "https://komikindo.one",
+        "baseUrl": "https://komikindo.tv",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22209,10 +22209,10 @@
   {
     "name": "Tachiyomi: ManhwaList",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwalist",
-    "apk": "tachiyomi-id.manhwalist-v1.4.29.apk",
+    "apk": "tachiyomi-id.manhwalist-v1.4.30.apk",
     "lang": "id",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -22221,7 +22221,7 @@
         "name": "ManhwaList",
         "lang": "id",
         "id": "4039555433611432280",
-        "baseUrl": "https://manhwalist.xyz",
+        "baseUrl": "https://manhwalist.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
