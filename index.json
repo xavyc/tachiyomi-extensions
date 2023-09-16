@@ -24184,6 +24184,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Blackout Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
+    "apk": "tachiyomi-pt.blackoutcomics-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Blackout Comics",
+        "lang": "pt-BR",
+        "id": "4905303791571172293",
+        "baseUrl": "https://blackoutcomics.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Boruto Explorer",
     "pkg": "eu.kanade.tachiyomi.extension.pt.borutoexplorer",
     "apk": "tachiyomi-pt.borutoexplorer-v1.4.32.apk",
@@ -24207,10 +24228,10 @@
   {
     "name": "Tachiyomi: BR Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.brmangas",
-    "apk": "tachiyomi-pt.brmangas-v1.4.4.apk",
+    "apk": "tachiyomi-pt.brmangas-v1.4.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24219,7 +24240,7 @@
         "name": "BR Mangás",
         "lang": "pt-BR",
         "id": "3995626938844406015",
-        "baseUrl": "https://brmangas.com",
+        "baseUrl": "https://www.brmangas.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24543,10 +24564,10 @@
   {
     "name": "Tachiyomi: Golden Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
-    "apk": "tachiyomi-pt.goldenmangas-v1.4.19.apk",
+    "apk": "tachiyomi-pt.goldenmangas-v1.4.20.apk",
     "lang": "pt-BR",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25501,6 +25522,27 @@
         "lang": "pt-BR",
         "id": "3891513807564817914",
         "baseUrl": "https://sinensisscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: SSS Hentais",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.ssshentais",
+    "apk": "tachiyomi-pt.ssshentais-v1.4.26.apk",
+    "lang": "pt-BR",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SSS Hentais",
+        "lang": "pt-BR",
+        "id": "7331382218243023412",
+        "baseUrl": "https://hentais.sssscanlator.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28680,10 +28722,10 @@
   {
     "name": "Tachiyomi: Manwa",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manwa",
-    "apk": "tachiyomi-zh.manwa-v1.4.3.apk",
+    "apk": "tachiyomi-zh.manwa-v1.4.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
